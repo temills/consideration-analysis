@@ -1,0 +1,896 @@
+{
+    "What zoo animal spends the most time awake?": [
+        {
+            "response": "monkey",
+            "considerations": [
+                "hippo",
+                "giraffe",
+                "tiger",
+                "lion"
+            ]
+        },
+        {
+            "response": "fish",
+            "considerations": [
+                "lion",
+                "tiger",
+                "panda",
+                "bear",
+                "bird",
+                "snake",
+                "cheetah"
+            ]
+        },
+        {
+            "response": "wolves",
+            "considerations": [
+                "bear",
+                "lion",
+                "tiger"
+            ]
+        },
+        {
+            "response": "shark",
+            "considerations": [
+                "whale",
+                "dolphin",
+                "lizard",
+                "shark"
+            ]
+        },
+        {
+            "response": "giraffe",
+            "considerations": [
+                "lion",
+                "cheetah",
+                "giraffe"
+            ]
+        },
+        {
+            "response": "monkeys",
+            "considerations": [
+                "penguins",
+                "monkeys",
+                "dolphin",
+                "turtles",
+                "lion"
+            ]
+        },
+        {
+            "response": "giraffe",
+            "considerations": [
+                "lion",
+                "tiger",
+                "penguins",
+                "giraffe",
+                "zebra",
+                "monkeys"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "tiger",
+                "bear",
+                "monkeys"
+            ]
+        },
+        {
+            "response": "elephants",
+            "considerations": [
+                "mole rats",
+                "lion",
+                "snake"
+            ]
+        },
+        {
+            "response": "camel",
+            "considerations": [
+                "zebra",
+                "tiger",
+                "hyenas"
+            ]
+        },
+        {
+            "response": "monkeys",
+            "considerations": [
+                "tiger",
+                "lion",
+                "zebra",
+                "antilope",
+                "bird",
+                "monkeys"
+            ]
+        },
+        {
+            "response": "monkeys",
+            "considerations": [
+                "monkeys"
+            ]
+        },
+        {
+            "response": "monkeys",
+            "considerations": [
+                "elephant",
+                "monkeys"
+            ]
+        }
+    ],
+    "What zoo animal would you least want to have in your car?": [
+        {
+            "response": "lion",
+            "considerations": [
+                "tiger",
+                "hippo",
+                "monkey"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "zebra",
+                "giraffe",
+                "lion",
+                "bird",
+                "monkey",
+                "fish"
+            ]
+        },
+        {
+            "response": "hippo",
+            "considerations": [
+                "lion",
+                "giraffe",
+                "zebra",
+                "anaconda",
+                "wolf",
+                "hippo"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "tiger",
+                "lion",
+                "rhino"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "bear",
+                "giraffe",
+                "lion"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "tiger",
+                "elephant",
+                "hyena",
+                "giraffe",
+                "penguin"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "lion",
+                "tiger",
+                "giraffe",
+                "elephant",
+                "zebra",
+                "bull",
+                "cow"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "lion",
+                "tiger"
+            ]
+        },
+        {
+            "response": "chimpanzee",
+            "considerations": [
+                "lion",
+                "tiger",
+                "gorilla",
+                "harambe",
+                "chimpanzee"
+            ]
+        },
+        {
+            "response": "grizzly bear",
+            "considerations": [
+                "grizzly bear",
+                "giraffe",
+                "zebra"
+            ]
+        },
+        {
+            "response": "gorilla",
+            "considerations": [
+                "elephant",
+                "lion",
+                "giraffe"
+            ]
+        },
+        {
+            "response": "a tiger",
+            "considerations": [
+                "rhino",
+                "elephant",
+                "lion",
+                "bear"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "zebra",
+                "monkey",
+                "bear"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "elephant",
+                "jaguar",
+                "tiger",
+                "lion",
+                "monkey"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "lion",
+                "elephant"
+            ]
+        },
+        {
+            "response": "hippo",
+            "considerations": [
+                "elephant",
+                "lion",
+                "hippo"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "elephant",
+                "zebra",
+                "lion",
+                "gorilla",
+                "chimpanzee"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "tiger",
+                "leopard"
+            ]
+        }
+    ],
+    "What zoo animal eats the most for its body weight?": [
+        {
+            "response": "hippo",
+            "considerations": [
+                "zebra",
+                "lion",
+                "tiger",
+                "bear"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "cow",
+                "ant",
+                "tiger",
+                "lion",
+                "gazelle",
+                "hippo",
+                "fish"
+            ]
+        },
+        {
+            "response": "monkey",
+            "considerations": [
+                "elephant",
+                "tiger",
+                "lion",
+                "bear",
+                "giraffe",
+                "monkey"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "hippo",
+                "giraffe",
+                "monkey",
+                "penguin",
+                "gorilla",
+                "lion",
+                "tiger"
+            ]
+        },
+        {
+            "response": "panda",
+            "considerations": [
+                "panda",
+                "elephant",
+                "rhino",
+                "lion"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "rhino",
+                "turtle",
+                "snake"
+            ]
+        },
+        {
+            "response": "bear",
+            "considerations": [
+                "giraffe",
+                "elephant",
+                "lion",
+                "tiger",
+                "bird"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "zebra",
+                "giraffe",
+                "gorilla",
+                "rhinoceros",
+                "hippo",
+                "lion"
+            ]
+        },
+        {
+            "response": "aligator",
+            "considerations": [
+                "aligator",
+                "lion",
+                "tiger",
+                "monkey"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "tiger"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "elephant",
+                "hippo",
+                "tiger",
+                "monkey",
+                "giraffe"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "elephant",
+                "giraffe",
+                "tiger",
+                "bear",
+                "whale"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "zebra",
+                "giraffe",
+                "otter",
+                "lion",
+                "tiger",
+                "bear"
+            ]
+        },
+        {
+            "response": "cow",
+            "considerations": [
+                "bird",
+                "elephant",
+                "lion",
+                "tiger",
+                "whale",
+                "shark",
+                "horse"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "bear",
+                "tiger",
+                "lion",
+                "rhinoceros",
+                "panda",
+                "boa",
+                "seal"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "tiger",
+                "bear",
+                "elephant",
+                "donkey"
+            ]
+        },
+        {
+            "response": "panda",
+            "considerations": [
+                "fish",
+                "monkey",
+                "giraffe",
+                "lion",
+                "rhino",
+                "cheeta"
+            ]
+        },
+        {
+            "response": "peacock",
+            "considerations": [
+                "monkey",
+                "seal",
+                "snake",
+                "giraffe",
+                "aviary bird"
+            ]
+        },
+        {
+            "response": "polar bear",
+            "considerations": [
+                "baboon",
+                "monkey",
+                "elephant",
+                "camel ",
+                "na ",
+                "na "
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "gorilla",
+                "tiger",
+                "giraffe"
+            ]
+        },
+        {
+            "response": "snake",
+            "considerations": [
+                "bear",
+                "lion",
+                "tiger"
+            ]
+        },
+        {
+            "response": "polar bear",
+            "considerations": [
+                "polar bear",
+                "bear",
+                "ostrich",
+                "snake",
+                "giraffe",
+                "ox",
+                "buffalo"
+            ]
+        },
+        {
+            "response": "polar bear",
+            "considerations": [
+                "giraffe",
+                "tiger",
+                "lion",
+                "peacock",
+                "hippo",
+                "rhino"
+            ]
+        },
+        {
+            "response": "panda",
+            "considerations": [
+                "tiger",
+                "giraffe",
+                "lion",
+                "flamingos",
+                "panda"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "gorilla",
+                "monkey",
+                "giraffe"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "horse",
+                "monkey",
+                "gorilla",
+                "chimpanzee ",
+                "penguin",
+                "giraffe"
+            ]
+        }
+    ],
+    "What zoo animal has the biggest feet relative to its body size?": [
+        {
+            "response": "chimpanzee",
+            "considerations": [
+                "chimpanzee",
+                "giraffe",
+                "lion"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "elephant",
+                "tiger",
+                "opossum"
+            ]
+        },
+        {
+            "response": "pelican",
+            "considerations": [
+                "duck",
+                "elephant",
+                "hippo"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "platypus",
+                "kangaroo"
+            ]
+        },
+        {
+            "response": "duck",
+            "considerations": [
+                "elephant",
+                "bear",
+                "flamingo",
+                "wallaby",
+                "duck"
+            ]
+        },
+        {
+            "response": "monkey",
+            "considerations": [
+                "elephant",
+                "ape",
+                "allegator"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "tiger",
+                "penguin"
+            ]
+        },
+        {
+            "response": "penguin",
+            "considerations": [
+                "giraffe",
+                "lion",
+                "sloth",
+                "penguin"
+            ]
+        },
+        {
+            "response": "penguin",
+            "considerations": [
+                "puffin"
+            ]
+        },
+        {
+            "response": "platypus",
+            "considerations": [
+                "bear"
+            ]
+        },
+        {
+            "response": "kangaroo",
+            "considerations": [
+                "elephant",
+                "tiger",
+                "bear",
+                "penguin",
+                "platypus",
+                "sloth",
+                "seal"
+            ]
+        },
+        {
+            "response": "duck",
+            "considerations": [
+                "panda bears",
+                "camels",
+                "hippo",
+                "elephant",
+                "rhinos",
+                "gorillas"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "lion",
+                "tiger",
+                "elephant",
+                "wolf",
+                "bobcat"
+            ]
+        },
+        {
+            "response": "hippo",
+            "considerations": [
+                "ostrich ",
+                "anigator",
+                "giraffe",
+                "hippo"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "tiger",
+                "giraffe",
+                "rhinos",
+                "hippo"
+            ]
+        },
+        {
+            "response": "duck",
+            "considerations": [
+                "elephant",
+                "giraffe",
+                "gorillas",
+                "kangaroo",
+                "panda"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "elephant"
+            ]
+        }
+    ],
+    "What zoo animal has the shortest lifespan?": [
+        {
+            "response": "penguin ",
+            "considerations": [
+                "lion",
+                "tiger",
+                "elephant",
+                "hippo"
+            ]
+        },
+        {
+            "response": "rabbit",
+            "considerations": [
+                "rabbit",
+                "monkey",
+                "giraffe",
+                "alligator",
+                "mouse"
+            ]
+        },
+        {
+            "response": "dolphin",
+            "considerations": [
+                "elephant",
+                "gorilla",
+                "zebra",
+                "fish"
+            ]
+        },
+        {
+            "response": "lion",
+            "considerations": [
+                "elephant",
+                "tiger",
+                "koala",
+                "zebra",
+                "camel"
+            ]
+        },
+        {
+            "response": "penguin",
+            "considerations": [
+                "monkey",
+                "elephant",
+                "snake",
+                "rabbit"
+            ]
+        },
+        {
+            "response": "bugs",
+            "considerations": [
+                "bugs",
+                "snake",
+                "mammals",
+                "birds",
+                "bugs"
+            ]
+        },
+        {
+            "response": "penguin",
+            "considerations": [
+                "parrot",
+                "zebra",
+                "rhino",
+                "giraffe",
+                "snake",
+                "penguin"
+            ]
+        },
+        {
+            "response": "prairie dog",
+            "considerations": [
+                "elephant",
+                "zebra",
+                "polar bear",
+                "monkey",
+                "giraffe",
+                "camel",
+                "peacock"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "elephant",
+                "lion",
+                "giraffe",
+                "tiger",
+                "bear",
+                "monkey",
+                "zebra"
+            ]
+        },
+        {
+            "response": "monkey",
+            "considerations": [
+                "lion",
+                "tiger",
+                "bear",
+                "elephant",
+                "giraffe",
+                "penguin",
+                "birds"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "lion",
+                "giraffe",
+                "zebra",
+                "koala"
+            ]
+        },
+        {
+            "response": "butterfly",
+            "considerations": [
+                "frog",
+                "fish",
+                "lion",
+                "tiger",
+                "monkey",
+                "zebra",
+                "elk"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "monkey",
+                "zebra"
+            ]
+        },
+        {
+            "response": "elephant",
+            "considerations": [
+                "tiger",
+                "lion",
+                "monkey",
+                "birds",
+                "peacock"
+            ]
+        },
+        {
+            "response": "tiger",
+            "considerations": [
+                "tiger",
+                "wolfe",
+                "lion"
+            ]
+        },
+        {
+            "response": "birds",
+            "considerations": [
+                "alligator",
+                "snake",
+                "lion",
+                "hippo",
+                "bear",
+                "monkey",
+                "gorilla"
+            ]
+        },
+        {
+            "response": "monkey",
+            "considerations": [
+                "monkey",
+                "giraffe",
+                "elephant",
+                "lion",
+                "tiger",
+                "snake",
+                "duck"
+            ]
+        },
+        {
+            "response": "zebra",
+            "considerations": [
+                "lion",
+                "tiger",
+                "monkey",
+                "turtle",
+                "zebra"
+            ]
+        },
+        {
+            "response": "gerbil",
+            "considerations": [
+                "gerbil",
+                "mouse",
+                "aardvark"
+            ]
+        },
+        {
+            "response": "fly",
+            "considerations": [
+                "moth",
+                "monkey"
+            ]
+        }
+    ]
+}
