@@ -1,4 +1,4 @@
-# consideration-analysis
+# generation-trajectory
 ## Generation
 * Subjects were asked to list up to 10 zoo animals, as they came to mind.  
 * generations.json includes each subject's response, in the order they gave.  
