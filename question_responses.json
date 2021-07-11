@@ -3,39 +3,38 @@
         {
             "response": "monkey",
             "considerations": [
-                "monkey",
-                "hippo",
+                "hippopotamus",
                 "giraffe",
                 "tiger",
-                "lion"
+                "lion",
+                "monkey"
             ]
         },
         {
             "response": "fish",
             "considerations": [
-                "fish",
                 "lion",
                 "tiger",
                 "panda",
                 "bear",
                 "bird",
                 "snake",
-                "cheetah"
+                "cheetah",
+                "fish"
             ]
         },
         {
-            "response": "wolves",
+            "response": "wolf",
             "considerations": [
-                "wolves",
                 "bear",
                 "lion",
-                "tiger"
+                "tiger",
+                "wolf"
             ]
         },
         {
             "response": "shark",
             "considerations": [
-                "shark",
                 "whale",
                 "dolphin",
                 "lizard",
@@ -45,18 +44,16 @@
         {
             "response": "giraffe",
             "considerations": [
-                "giraffe",
                 "lion",
                 "cheetah",
                 "giraffe"
             ]
         },
         {
-            "response": "monkeys",
+            "response": "monkey",
             "considerations": [
-                "monkeys",
-                "penguins",
-                "monkeys",
+                "penguin",
+                "monkey",
                 "dolphin",
                 "turtles",
                 "lion"
@@ -65,68 +62,63 @@
         {
             "response": "giraffe",
             "considerations": [
-                "giraffe",
                 "lion",
                 "tiger",
-                "penguins",
+                "penguin",
                 "giraffe",
                 "zebra",
-                "monkeys"
+                "monkey"
             ]
         },
         {
             "response": "lion",
             "considerations": [
                 "lion",
-                "lion",
                 "tiger",
                 "bear",
-                "monkeys"
+                "monkey"
             ]
         },
         {
-            "response": "elephants",
+            "response": "elephant",
             "considerations": [
-                "elephants",
-                "mole rats",
+                "mole rat",
                 "lion",
-                "snake"
+                "snake",
+                "elephant"
             ]
         },
         {
             "response": "camel",
             "considerations": [
-                "camel",
                 "zebra",
                 "tiger",
-                "hyenas"
+                "hyenas",
+                "camel"
             ]
         },
         {
-            "response": "monkeys",
+            "response": "monkey",
             "considerations": [
-                "monkeys",
                 "tiger",
                 "lion",
                 "zebra",
-                "antilope",
+                "antelope",
                 "bird",
-                "monkeys"
+                "monkey"
             ]
         },
         {
-            "response": "monkeys",
+            "response": "monkey",
             "considerations": [
-                "monkeys",
-                "monkeys"
+                "monkey"
             ]
         },
         {
-            "response": "monkeys",
+            "response": "monkey",
             "considerations": [
-                "monkeys",
                 "elephant",
-                "monkeys"
+                "monkey"
             ]
         }
     ],
@@ -134,69 +126,66 @@
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "tiger",
-                "hippo",
-                "monkey"
+                "hippopotamus",
+                "monkey",
+                "lion"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "zebra",
                 "giraffe",
                 "lion",
                 "bird",
                 "monkey",
-                "fish"
+                "fish",
+                "tiger"
             ]
         },
         {
-            "response": "hippo",
+            "response": "hippopotamus",
             "considerations": [
-                "hippo",
                 "lion",
                 "giraffe",
                 "zebra",
                 "anaconda",
                 "wolf",
-                "hippo"
+                "hippopotamus"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "tiger",
                 "lion",
-                "rhino"
+                "rhinoceros"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "bear",
                 "giraffe",
-                "lion"
+                "lion",
+                "tiger"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "tiger",
                 "elephant",
                 "hyena",
                 "giraffe",
-                "penguin"
+                "penguin",
+                "lion"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "lion",
                 "tiger",
                 "giraffe",
@@ -209,7 +198,6 @@
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "lion",
                 "tiger"
             ]
@@ -217,7 +205,6 @@
         {
             "response": "chimpanzee",
             "considerations": [
-                "chimpanzee",
                 "lion",
                 "tiger",
                 "gorilla",
@@ -229,7 +216,6 @@
             "response": "grizzly bear",
             "considerations": [
                 "grizzly bear",
-                "grizzly bear",
                 "giraffe",
                 "zebra"
             ]
@@ -237,35 +223,34 @@
         {
             "response": "gorilla",
             "considerations": [
-                "gorilla",
                 "elephant",
                 "lion",
-                "giraffe"
+                "giraffe",
+                "gorilla"
             ]
         },
         {
             "response": "a tiger",
             "considerations": [
-                "a tiger",
-                "rhino",
+                "rhinoceros",
                 "elephant",
                 "lion",
-                "bear"
+                "bear",
+                "a tiger"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "zebra",
                 "monkey",
-                "bear"
+                "bear",
+                "elephant"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "elephant",
                 "jaguar",
                 "tiger",
@@ -276,24 +261,21 @@
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "lion",
                 "elephant"
             ]
         },
         {
-            "response": "hippo",
+            "response": "hippopotamus",
             "considerations": [
-                "hippo",
                 "elephant",
                 "lion",
-                "hippo"
+                "hippopotamus"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "elephant",
                 "zebra",
                 "lion",
@@ -304,40 +286,38 @@
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "tiger",
-                "leopard"
+                "leopard",
+                "lion"
             ]
         }
     ],
     "What zoo animal eats the most for its body weight?": [
         {
-            "response": "hippo",
+            "response": "hippopotamus",
             "considerations": [
-                "hippo",
                 "zebra",
                 "lion",
                 "tiger",
-                "bear"
+                "bear",
+                "hippopotamus"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "cow",
                 "ant",
                 "tiger",
                 "lion",
                 "gazelle",
-                "hippo",
+                "hippopotamus",
                 "fish"
             ]
         },
         {
             "response": "monkey",
             "considerations": [
-                "monkey",
                 "elephant",
                 "tiger",
                 "lion",
@@ -349,63 +329,61 @@
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
-                "hippo",
+                "hippopotamus",
                 "giraffe",
                 "monkey",
                 "penguin",
                 "gorilla",
                 "lion",
-                "tiger"
+                "tiger",
+                "elephant"
             ]
         },
         {
             "response": "panda",
             "considerations": [
                 "panda",
-                "panda",
                 "elephant",
-                "rhino",
+                "rhinoceros",
                 "lion"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
-                "rhino",
+                "rhinoceros",
                 "turtle",
-                "snake"
+                "snake",
+                "elephant"
             ]
         },
         {
             "response": "bear",
             "considerations": [
-                "bear",
                 "giraffe",
                 "elephant",
                 "lion",
                 "tiger",
-                "bird"
+                "bird",
+                "bear"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "zebra",
                 "giraffe",
                 "gorilla",
                 "rhinoceros",
-                "hippo",
-                "lion"
+                "hippopotamus",
+                "lion",
+                "elephant"
             ]
         },
         {
-            "response": "aligator",
+            "response": "alligator",
             "considerations": [
-                "aligator",
-                "aligator",
+                "alligator",
                 "lion",
                 "tiger",
                 "monkey"
@@ -414,25 +392,24 @@
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
-                "tiger"
+                "tiger",
+                "elephant"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "elephant",
-                "hippo",
+                "hippopotamus",
                 "tiger",
                 "monkey",
-                "giraffe"
+                "giraffe",
+                "lion"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "elephant",
                 "giraffe",
                 "tiger",
@@ -443,45 +420,44 @@
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "zebra",
                 "giraffe",
                 "otter",
                 "lion",
                 "tiger",
-                "bear"
+                "bear",
+                "elephant"
             ]
         },
         {
             "response": "cow",
             "considerations": [
-                "cow",
                 "bird",
                 "elephant",
                 "lion",
                 "tiger",
                 "whale",
                 "shark",
-                "horse"
+                "horse",
+                "cow"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "bear",
                 "tiger",
                 "lion",
                 "rhinoceros",
                 "panda",
                 "boa",
-                "seal"
+                "seal",
+                "elephant"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "lion",
                 "tiger",
                 "bear",
@@ -492,42 +468,41 @@
         {
             "response": "panda",
             "considerations": [
-                "panda",
                 "fish",
                 "monkey",
                 "giraffe",
                 "lion",
-                "rhino",
-                "cheeta"
+                "rhinoceros",
+                "cheetah",
+                "panda"
             ]
         },
         {
             "response": "peacock",
             "considerations": [
-                "peacock",
                 "monkey",
                 "seal",
                 "snake",
                 "giraffe",
-                "aviary bird"
+                "bird",
+                "peacock"
             ]
         },
         {
             "response": "polar bear",
             "considerations": [
-                "polar bear",
                 "baboon",
                 "monkey",
                 "elephant",
                 "camel ",
                 "na ",
-                "na "
+                "na ",
+                "polar bear"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "lion",
                 "gorilla",
                 "tiger",
@@ -537,16 +512,15 @@
         {
             "response": "snake",
             "considerations": [
-                "snake",
                 "bear",
                 "lion",
-                "tiger"
+                "tiger",
+                "snake"
             ]
         },
         {
             "response": "polar bear",
             "considerations": [
-                "polar bear",
                 "polar bear",
                 "bear",
                 "ostrich",
@@ -559,45 +533,44 @@
         {
             "response": "polar bear",
             "considerations": [
-                "polar bear",
                 "giraffe",
                 "tiger",
                 "lion",
                 "peacock",
-                "hippo",
-                "rhino"
+                "hippopotamus",
+                "rhinoceros",
+                "polar bear"
             ]
         },
         {
             "response": "panda",
             "considerations": [
-                "panda",
                 "tiger",
                 "giraffe",
                 "lion",
-                "flamingos",
+                "flamingo",
                 "panda"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "gorilla",
                 "monkey",
-                "giraffe"
+                "giraffe",
+                "elephant"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "horse",
                 "monkey",
                 "gorilla",
                 "chimpanzee ",
                 "penguin",
-                "giraffe"
+                "giraffe",
+                "elephant"
             ]
         }
     ],
@@ -605,7 +578,6 @@
         {
             "response": "chimpanzee",
             "considerations": [
-                "chimpanzee",
                 "chimpanzee",
                 "giraffe",
                 "lion"
@@ -615,7 +587,6 @@
             "response": "elephant",
             "considerations": [
                 "elephant",
-                "elephant",
                 "tiger",
                 "opossum"
             ]
@@ -623,16 +594,15 @@
         {
             "response": "pelican",
             "considerations": [
-                "pelican",
                 "duck",
                 "elephant",
-                "hippo"
+                "hippopotamus",
+                "pelican"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "lion",
                 "platypus",
                 "kangaroo"
@@ -641,7 +611,6 @@
         {
             "response": "duck",
             "considerations": [
-                "duck",
                 "elephant",
                 "bear",
                 "flamingo",
@@ -652,16 +621,15 @@
         {
             "response": "monkey",
             "considerations": [
-                "monkey",
                 "elephant",
                 "ape",
-                "allegator"
+                "allegator",
+                "monkey"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "lion",
                 "tiger",
                 "penguin"
@@ -670,7 +638,6 @@
         {
             "response": "penguin",
             "considerations": [
-                "penguin",
                 "giraffe",
                 "lion",
                 "sloth",
@@ -680,46 +647,45 @@
         {
             "response": "penguin",
             "considerations": [
-                "penguin",
-                "puffin"
+                "puffin",
+                "penguin"
             ]
         },
         {
             "response": "platypus",
             "considerations": [
-                "platypus",
-                "bear"
+                "bear",
+                "platypus"
             ]
         },
         {
             "response": "kangaroo",
             "considerations": [
-                "kangaroo",
                 "elephant",
                 "tiger",
                 "bear",
                 "penguin",
                 "platypus",
                 "sloth",
-                "seal"
+                "seal",
+                "kangaroo"
             ]
         },
         {
             "response": "duck",
             "considerations": [
-                "duck",
-                "panda bears",
-                "camels",
-                "hippo",
+                "panda",
+                "camel",
+                "hippopotamus",
                 "elephant",
-                "rhinos",
-                "gorillas"
+                "rhinoceros",
+                "gorilla",
+                "duck"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "lion",
                 "tiger",
                 "elephant",
@@ -728,40 +694,38 @@
             ]
         },
         {
-            "response": "hippo",
+            "response": "hippopotamus",
             "considerations": [
-                "hippo",
                 "ostrich ",
-                "anigator",
+                "allegator",
                 "giraffe",
-                "hippo"
+                "hippopotamus"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "tiger",
                 "giraffe",
-                "rhinos",
-                "hippo"
+                "rhinoceros",
+                "hippopotamus",
+                "elephant"
             ]
         },
         {
             "response": "duck",
             "considerations": [
-                "duck",
                 "elephant",
                 "giraffe",
-                "gorillas",
+                "gorilla",
                 "kangaroo",
-                "panda"
+                "panda",
+                "duck"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "elephant"
             ]
         }
@@ -770,17 +734,16 @@
         {
             "response": "penguin ",
             "considerations": [
-                "penguin ",
                 "lion",
                 "tiger",
                 "elephant",
-                "hippo"
+                "hippopotamus",
+                "penguin "
             ]
         },
         {
             "response": "rabbit",
             "considerations": [
-                "rabbit",
                 "rabbit",
                 "monkey",
                 "giraffe",
@@ -791,74 +754,71 @@
         {
             "response": "dolphin",
             "considerations": [
-                "dolphin",
                 "elephant",
                 "gorilla",
                 "zebra",
-                "fish"
+                "fish",
+                "dolphin"
             ]
         },
         {
             "response": "lion",
             "considerations": [
-                "lion",
                 "elephant",
                 "tiger",
                 "koala",
                 "zebra",
-                "camel"
+                "camel",
+                "lion"
             ]
         },
         {
-            "response": "penguin",
+            "response": "penguin ",
             "considerations": [
-                "penguin",
                 "monkey",
                 "elephant",
                 "snake",
-                "rabbit"
+                "rabbit",
+                "penguin "
             ]
         },
         {
-            "response": "bugs",
+            "response": "bug",
             "considerations": [
-                "bugs",
-                "bugs",
+                "bug",
                 "snake",
-                "mammals",
-                "birds",
-                "bugs"
+                "mammal",
+                "bird",
+                "bug"
             ]
         },
         {
-            "response": "penguin",
+            "response": "penguin ",
             "considerations": [
-                "penguin",
                 "parrot",
                 "zebra",
-                "rhino",
+                "rhinoceros",
                 "giraffe",
                 "snake",
-                "penguin"
+                "penguin "
             ]
         },
         {
             "response": "prairie dog",
             "considerations": [
-                "prairie dog",
                 "elephant",
                 "zebra",
                 "polar bear",
                 "monkey",
                 "giraffe",
                 "camel",
-                "peacock"
+                "peacock",
+                "prairie dog"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "elephant",
                 "lion",
                 "giraffe",
@@ -871,84 +831,82 @@
         {
             "response": "monkey",
             "considerations": [
-                "monkey",
                 "lion",
                 "tiger",
                 "bear",
                 "elephant",
                 "giraffe",
-                "penguin",
-                "birds"
+                "penguin ",
+                "bird",
+                "monkey"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
-                "tiger",
                 "lion",
                 "giraffe",
                 "zebra",
-                "koala"
+                "koala",
+                "tiger"
             ]
         },
         {
             "response": "butterfly",
             "considerations": [
-                "butterfly",
                 "frog",
                 "fish",
                 "lion",
                 "tiger",
                 "monkey",
                 "zebra",
-                "elk"
+                "elk",
+                "butterfly"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "monkey",
-                "zebra"
+                "zebra",
+                "elephant"
             ]
         },
         {
             "response": "elephant",
             "considerations": [
-                "elephant",
                 "tiger",
                 "lion",
                 "monkey",
-                "birds",
-                "peacock"
+                "bird",
+                "peacock",
+                "elephant"
             ]
         },
         {
             "response": "tiger",
             "considerations": [
                 "tiger",
-                "tiger",
-                "wolfe",
+                "wolf",
                 "lion"
             ]
         },
         {
-            "response": "birds",
+            "response": "bird",
             "considerations": [
-                "birds",
                 "alligator",
                 "snake",
                 "lion",
-                "hippo",
+                "hippopotamus",
                 "bear",
                 "monkey",
-                "gorilla"
+                "gorilla",
+                "bird"
             ]
         },
         {
             "response": "monkey",
             "considerations": [
-                "monkey",
                 "monkey",
                 "giraffe",
                 "elephant",
@@ -961,7 +919,6 @@
         {
             "response": "zebra",
             "considerations": [
-                "zebra",
                 "lion",
                 "tiger",
                 "monkey",
@@ -973,7 +930,6 @@
             "response": "gerbil",
             "considerations": [
                 "gerbil",
-                "gerbil",
                 "mouse",
                 "aardvark"
             ]
@@ -981,9 +937,9 @@
         {
             "response": "fly",
             "considerations": [
-                "fly",
                 "moth",
-                "monkey"
+                "monkey",
+                "fly"
             ]
         }
     ]
