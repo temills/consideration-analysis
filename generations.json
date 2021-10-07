@@ -14,7 +14,7 @@
     [
         "lion",
         "monkey",
-        "bear",
+        "grizzly bear",
         "tiger",
         "giraffe",
         "chimp",
@@ -28,7 +28,7 @@
         "lion",
         "monkey",
         "tiger",
-        "bear",
+        "grizzly bear",
         "giraffe",
         "snake",
         "rhino",
@@ -52,7 +52,7 @@
         "monkey",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "elephant",
         "hippo",
         "alligator",
@@ -64,7 +64,7 @@
         "lion",
         "tiger",
         "penguin",
-        "bear",
+        "grizzly bear",
         "panda",
         "giraffe",
         "bird",
@@ -74,7 +74,7 @@
     [
         "tiger",
         "lion",
-        "bear",
+        "grizzly bear",
         "parrot",
         "elephant",
         "giraffe",
@@ -134,14 +134,14 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "monkey",
         "tiger",
         "emu",
         "lizard",
         "spider",
         "snake",
-        "bear"
+        "grizzly bear"
     ],
     [
         "zebra",
@@ -182,7 +182,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "alligator",
         "giraffe",
         "zebra",
@@ -199,7 +199,7 @@
         "lion",
         "hippo",
         "tiger",
-        "bear",
+        "grizzly bear",
         "gorilla",
         "monkey"
     ],
@@ -229,7 +229,7 @@
     ],
     [
         "zebra",
-        "bear",
+        "grizzly bear",
         "gorilla",
         "monkey",
         "dolphin",
@@ -241,7 +241,7 @@
     ],
     [
         "elephant",
-        "bear",
+        "grizzly bear",
         "monkey",
         "rhino",
         "gorilla",
@@ -255,7 +255,7 @@
         "elephant",
         "tiger",
         "lion",
-        "bear",
+        "grizzly bear",
         "otters",
         "giraffe",
         "monkey",
@@ -267,7 +267,7 @@
         "tiger",
         "ostrich",
         "lion",
-        "bear",
+        "grizzly bear",
         "monkey",
         "rhino",
         "hippo",
@@ -278,7 +278,7 @@
     [
         "zebra",
         "lion",
-        "bear",
+        "grizzly bear",
         "meerkat",
         "giraffe",
         "antelope",
@@ -306,7 +306,7 @@
         "giraffe",
         "monkey",
         "snake",
-        "bear",
+        "grizzly bear",
         "horse",
         "fox",
         "butterflies"
@@ -315,7 +315,7 @@
         "zebra",
         "elephant",
         "tiger",
-        "bear",
+        "grizzly bear",
         "lion",
         "seal",
         "rhino",
@@ -324,7 +324,7 @@
         "ostrich"
     ],
     [
-        "bear",
+        "grizzly bear",
         "lion",
         "penguin",
         "giraffe",
@@ -344,7 +344,7 @@
         "alligator",
         "panda",
         "koala",
-        "bear",
+        "grizzly bear",
         "snake"
     ],
     [
@@ -363,7 +363,7 @@
         "zebra",
         "lion",
         "penguin",
-        "bear",
+        "grizzly bear",
         "polar bear",
         "koala",
         "tiger",
@@ -374,7 +374,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "monkey",
         "bat",
         "elephant",
@@ -392,7 +392,7 @@
         "cheetah",
         "lion",
         "wolf",
-        "bear",
+        "grizzly bear",
         "antelope"
     ],
     [
@@ -411,7 +411,7 @@
         "zebra",
         "tiger",
         "lion",
-        "bear",
+        "grizzly bear",
         "mountain lion",
         "jaguar",
         "cheetah",
@@ -422,7 +422,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "cheetah",
         "chimp",
         "ape",
@@ -458,7 +458,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "giraffe",
         "monkey",
         "hippo",
@@ -470,7 +470,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "zebra",
         "polar bear",
         "wolf",
@@ -499,7 +499,7 @@
         "seal",
         "otters",
         "monkey",
-        "bear",
+        "grizzly bear",
         "alligator",
         "owl"
     ],
@@ -518,7 +518,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "giraffe",
         "red panda",
         "elephant",
@@ -542,7 +542,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "zebra",
         "giraffe",
         "ostrich",
@@ -561,7 +561,7 @@
         "seal",
         "alligator",
         "owl",
-        "bear"
+        "grizzly bear"
     ],
     [
         "giraffe",
@@ -593,7 +593,7 @@
         "elephant",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "panda",
         "dolphin",
         "cheetah",
@@ -615,7 +615,7 @@
         "giraffe",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "flamingo",
         "monkey",
         "ram",
@@ -633,7 +633,7 @@
         "tiger",
         "panda",
         "rhino",
-        "bear"
+        "grizzly bear"
     ],
     [
         "lion",
@@ -675,7 +675,7 @@
         "giraffe",
         "fox",
         "elephant",
-        "bear",
+        "grizzly bear",
         "lion",
         "tiger",
         "monkey",
@@ -690,7 +690,7 @@
         "peacock",
         "lion",
         "bull",
-        "bear",
+        "grizzly bear",
         "deer",
         "elephant",
         "wolf"
@@ -722,7 +722,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "elephant",
         "giraffe",
         "rhino",
@@ -735,7 +735,7 @@
         "zebra",
         "giraffe",
         "lion",
-        "bear",
+        "grizzly bear",
         "tiger",
         "whale",
         "dolphin",
@@ -759,7 +759,7 @@
         "elephant",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "snake",
         "monkey",
         "bird",
@@ -768,7 +768,7 @@
         "zebra"
     ],
     [
-        "bear",
+        "grizzly bear",
         "lion",
         "giraffe",
         "gorilla",
@@ -799,7 +799,7 @@
         "zebra",
         "giraffe",
         "otters",
-        "bear",
+        "grizzly bear",
         "deer",
         "panther"
     ],
@@ -825,10 +825,10 @@
         "giraffe",
         "lion",
         "tiger",
-        "bear"
+        "grizzly bear"
     ],
     [
-        "bear",
+        "grizzly bear",
         "lion",
         "monkey",
         "whale",
@@ -841,7 +841,7 @@
     ],
     [
         "lion",
-        "bear",
+        "grizzly bear",
         "bird",
         "snake",
         "lizard",
@@ -872,7 +872,7 @@
         "baboon",
         "whale",
         "dolphin",
-        "bear",
+        "grizzly bear",
         "moose"
     ],
     [
@@ -890,7 +890,7 @@
     [
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "peacock",
         "seal",
         "penguin",
@@ -907,7 +907,7 @@
         "monkey",
         "penguin",
         "giraffe",
-        "bear",
+        "grizzly bear",
         "bird",
         "seal"
     ],
@@ -917,7 +917,7 @@
         "tiger",
         "monkey",
         "koala",
-        "bear",
+        "grizzly bear",
         "tortoise",
         "alligator",
         "crocodile",
@@ -927,7 +927,7 @@
         "zebra",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "penguin",
         "alligator",
         "crocodile",
@@ -945,7 +945,7 @@
         "lion",
         "tiger",
         "hyena",
-        "bear"
+        "grizzly bear"
     ],
     [
         "lion",
@@ -957,7 +957,7 @@
         "lemur",
         "gorilla",
         "monkey",
-        "bear"
+        "grizzly bear"
     ],
     [
         "lion",
@@ -1010,7 +1010,7 @@
     [
         "zebra",
         "tiger",
-        "bear",
+        "grizzly bear",
         "swan",
         "monkey",
         "lion",
@@ -1024,7 +1024,7 @@
         "giraffe",
         "monkey",
         "bird",
-        "bear",
+        "grizzly bear",
         "panda",
         "tiger",
         "gorilla",
@@ -1046,7 +1046,7 @@
     [
         "tiger",
         "lion",
-        "bear",
+        "grizzly bear",
         "seal",
         "snake",
         "turtle",
@@ -1074,7 +1074,7 @@
         "lion",
         "hippo",
         "elephant",
-        "bear",
+        "grizzly bear",
         "giraffe",
         "snake",
         "wolf"
@@ -1083,7 +1083,7 @@
         "giraffe",
         "lion",
         "tiger",
-        "bear",
+        "grizzly bear",
         "kangaroo",
         "rhino",
         "panda",
